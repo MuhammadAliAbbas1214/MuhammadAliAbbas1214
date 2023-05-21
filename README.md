@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MuhammadAliAbbas1214
 - 👀 I’m interested in ...learning skills
-- 🌱 I’m currently learning ...c language
-- 💞️ I’m looking to collaborate on ...c language projects
-- 📫 How to reach me ... m_ali_abbas239/instagram
+- 🌱 I’m currently learning .. Data science
+- 💞️ I’m looking to collaborate on ...Data analysis projects
+- 📫 How to reach me ... https://www.linkedin.com/in/m-ali-abbas-134888252
 
 <!---
 MuhammadAliAbbas1214/MuhammadAliAbbas1214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
